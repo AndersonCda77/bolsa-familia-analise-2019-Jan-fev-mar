@@ -2,6 +2,7 @@
 
 Bem-vindo(a) ao meu projeto de análise de dados do **Bolsa Família**! 🎉 Aqui, explorei os pagamentos realizados no Brasil entre janeiro e março de 2019, utilizando tecnologias incríveis como **Hadoop MapReduce** e **PySpark** para responder a perguntas analíticas e gerar insights poderosos! 💡
 
+
 ## 📖 Sobre o Projeto
 Este repositório foi criado como parte de um projeto acadêmico para processar e analisar grandes volumes de dados públicos. Os dados, obtidos do Portal da Transparência, foram processados em um ambiente Hadoop standalone usando Docker, e as análises foram feitas com scripts MapReduce e PySpark. 🚀 O resultado? Uma visão detalhada dos pagamentos do Bolsa Família por estado, município e família! 📈
 
