@@ -3,9 +3,13 @@
 ## Executado pelos alunos:
 
 Anderson Silva
+
 Juan Rio
+
 Leandro Carvalho
+
 Miguel Paixão 
+
 Ygor Reis
 
 
