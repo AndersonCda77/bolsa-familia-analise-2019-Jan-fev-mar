@@ -1,3 +1,4 @@
+![Bolsa Família Analysis](https://via.placeholder.com/800x200.png?text=Análise+Bolsa+Família+2019)
 # 🌟 Análise dos Pagamentos do Bolsa Família (2019) 📊
 
 Bem-vindo(a) ao meu projeto de análise de dados do **Bolsa Família**! 🎉 Aqui, explorei os pagamentos realizados no Brasil entre janeiro e março de 2019, utilizando tecnologias incríveis como **Hadoop MapReduce** e **PySpark** para responder a perguntas analíticas e gerar insights poderosos! 💡
